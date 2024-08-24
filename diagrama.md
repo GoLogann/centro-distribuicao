@@ -1,4 +1,4 @@
-# Exemplo de Diagrama Mermaid
+# Centro de Distribuição
 
 ```mermaid
 graph TD
